@@ -3,7 +3,7 @@
 Me chamo **Daffane Costa**, sou de **São Paulo - SP** e atualmente atuo como **Analista de Dados** na Suzano.
 
 - 📊 **Analista de Dados:** Experiência com áreas operacionais, MIS e Supply Chain.
-- 🎓 **Estudante:** Cursando Engenharia de Software.
+- 🎓 **Estudante:** Bacharelado em Engenharia de Software.
 - 💬 **Foco técnico:** SQL, DAX, Power BI, Python, GCP e Pipelines de Dados.
 - 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/daffane-nascimento) | [E-mail](mailto:costadaffane@gmail.com)
 
